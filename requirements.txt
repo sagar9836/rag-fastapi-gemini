@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+
+pinecone-client==8.*
+
+boto3
+pypdf
+
+tiktoken
